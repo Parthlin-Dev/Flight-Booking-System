@@ -28,8 +28,7 @@ A Spring Boot based Flight Booking Management System developed to manage airport
 * GitHub
 
 ## Developer
-M. Parthlin
-Java Full Stack Developer
+
 
 
 
